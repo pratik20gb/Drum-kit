@@ -1,2 +1,2 @@
 # Drum kit by me
-https://pratikcodex.github.io/drum/
+https://pratikcodex.github.io/Drum-kit/
